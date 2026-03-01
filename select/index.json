@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "TOKYO通信〜Urbs Communication〜",
+  "base_artist": "SOUL'd OUT",
+  "createdAt": "2026-03-01T04:45:43.727124Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "TOKYO通信〜Urbs Communication〜",
+      "artist": "SOUL'd OUT",
+      "has_synced": true,
+      "path": "select/01_TOKYO通信〜Urbs_Communication〜_SOUL'd_OUT.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "tokyo通信 ～urbs communication～",
+      "artist": "soul’d out",
+      "has_synced": true,
+      "path": "select/02_tokyo通信_~urbs_communication~_soul’d_out.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "tokyo通信～urbs communication～",
+      "artist": "soul'd out",
+      "has_synced": true,
+      "path": "select/03_tokyo通信~urbs_communication~_soul'd_out.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "TOKYO通信～Urbs Communication～",
+      "artist": "SOUL’d OUT",
+      "has_synced": false,
+      "path": "select/04_TOKYO通信~Urbs_Communication~_SOUL’d_OUT.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "TOKYO通信～Urbs Communication～",
+      "artist": "SOUL’d OUT",
+      "has_synced": true,
+      "path": "select/05_TOKYO通信~Urbs_Communication~_SOUL’d_OUT.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TOKYO通信～Urbs Communication～",
+      "artist": "SOUL'd OUT",
+      "has_synced": false,
+      "path": "select/pl_01_TOKYO通信~Urbs_Communication~_SOUL'd_OUT.txt"
+    }
+  ]
+}
